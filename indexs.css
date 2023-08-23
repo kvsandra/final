@@ -1,0 +1,762 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  .body {
+    box-sizing: border-box;
+  }
+  .landing-page {
+    height: 100vh;
+    width: 100%;
+  }
+  .main-frame {
+    width: 100%;
+    height: 7050px;
+    position: absolute;
+  }
+  .main-menu-content {
+    width: 100%;
+    padding: 5px;
+    position: absolute;
+  }
+  .icon {
+    display: block;
+    padding: 15px;
+  }
+  /* .menu-icon-img {
+    height: 30px;
+    width: 30px;
+  } */
+  .top-nav {
+    display: none;
+  }
+  .web-logo {
+    padding-left: 20px;
+    font-size: 24px;
+  }
+  .header-lady-1-parent{
+    display: none;
+  }
+  .header-text-content{
+    left: 0;
+    padding-left: 50px;
+  }
+  .header-section{
+    width: 100%;
+    position: absolute;
+  }
+  .we-help-businesses{
+    font-size: 22px;
+    width: 60%;
+  }
+  .our-partners-icon{
+    width: 100%;
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-direction: row;
+    padding: 0 20px;
+    gap: 35px;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  /* .img1, .img2,.img3,.img4,.img5{
+    position: relative;
+    left: 0;
+    top: 0; */
+  /* } */
+  .what-we-do{
+    width: 100%;
+    position: absolute;
+    height: 980px;
+  }
+  .frame-parent4{
+    width: 100%;
+    left: 0;
+    padding:0 50px;
+  }
+  .subscribe{
+    font-size: 24px;
+  }
+  .what-we-do-card-parent{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .what-we-do-parent{
+    display: flex;
+    flex-direction: row;
+    gap:30px
+  }
+  .what-we-do-card{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .completed-projects-parent{
+    top:1850px;
+    width: 100%;
+    padding: 10px;
+  }
+  .our-portfolio{
+    top: 2250px;
+    width: 100%;
+    padding: 0 50px;
+    position: absolute;
+    height: 3400px;
+  }
+  .our-portfolio1, .we-provide-the{
+    left: 0;
+    position: relative;
+  }
+  .our-portfolio1{
+    font-size: 24px;
+
+  }
+  .screenshots{
+    position: absolute;
+    top:280px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+  }
+  .screenshot-2022-05-06-at-1035-parent,
+  .screenshot-2022-05-14-at-1115-parent,
+  .screenshot-2022-05-14-at-1117-parent,
+  .screenshot-2022-05-06-at-1033-parent {
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: relative;
+    gap: 30px;
+  }
+  .screenshot-2022-05-06-at-1035,
+  .screenshot-2022-05-14-at-1115,
+  .screenshot-2022-05-14-at-1117,
+  .screenshot-2022-05-06-at-1033{
+    left: 0;
+    top: 0;
+    width: 90%;
+    height: 90%;
+  }
+  .digital-marketing-agency-websi-parent1{
+    position: relative;
+    width: 100%;
+  }
+  .digital-marketing-agency{
+    width: 100%;
+    font-size: 26px;
+  }
+  .this-is-a3 {
+    width: 30%;
+    position: relative;
+    font-size: 15.21px;
+  }
+  .testimonial-section{
+    top:5650px;
+    width: 100%;
+    height: fit-content;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    gap: 60px;
+  }
+  .frame-parent3{
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .testimonials-parent{
+    width: 100%;
+  }
+  .eparrow-right-bold-parent{
+    display: none;
+  }
+  .testimonial-section-inner{
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .instance-parent{
+    position: relative;
+    width:210%;
+    padding: 0 20px;
+  }
+  .thank-you-for-your-service-i-group{
+    position: relative;
+    gap: 25px;
+  }
+  .thank-you-for1{
+    font-size: 22px;
+    line-height: 30px;
+  }
+  .emily-stones1{
+    font-size: 22px;
+  }
+  .ceo-marketing-guru1{
+    font-size: 20px;
+  }
+  .subscribe-section{
+    top:6230px;
+    width: 100%;
+    padding: 50px;
+    position: absolute;
+    height: fit-content;
+  }
+  .frame-parent1{
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: relative;
+  }
+  .footer{
+    top:6610px;
+    width: 100%;
+    position: absolute;
+    padding:30px 50px;
+  }
+  .web-logo-wrapper{
+    position: relative;
+    top: 0;
+    left: 0;
+    padding: 0;
+  }
+  .some-footer-text{
+    margin-top: 10px;
+    position: relative;
+    top:0px;
+    left: 0px;
+  }
+  .quick-links{
+    position: absolute;
+    font-size: 22px;
+    font-weight: 500;
+    top: 8%;
+    left: 65%;
+  }
+  .services-parent{
+    top: 19%;
+    left: 65%;
+    gap: 15px;
+  }
+  .footer-inner{
+    width: 100%;
+    margin-top: 20px;
+    left: auto;
+    top: auto;
+  }
+  .address{
+    font-size: 22px;
+    font-weight: 500;
+    left: auto;
+    top: 62%;
+  }
+  .design-agency-head-container{
+    left: auto;
+    top: 73%;
+  }
+  .copyright-design-agency{
+    top: 85.5%;
+    left: 58%;
+  } 
+}
+
+@media (max-width: 420px) {
+  .body {
+    width: inherit;
+  }
+  .landing-page
+  {
+    width: 100%
+  }
+  .main-frame {
+    width: 100%;
+    height: 5236px;
+  }
+  .main-menu-content {
+    width: 100%;
+    padding: 5px;
+  }
+  .top-nav{
+    position: absolute;
+    top: 190px;
+    display: none;
+    /* display: flex; */
+    flex-direction: column;
+    gap: 5px;
+  }
+  .icon {
+    display: block;
+    padding: 5px;
+  }
+  /* .menu-icon-img {
+    height: 30px;
+    width: 30px;
+  } */
+  
+  .header-text-content-parent {
+    width: 100%;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+  .header-text-content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10px;
+  }
+  .increase-your-customers {
+    width: 50%;
+    line-height: normal;
+    font-weight: 500;
+    font-size: large;
+  }
+  .we-help-businesses {
+    width: 50%;
+    font-weight: 400;
+    font-size: medium;
+  }
+  .header-cta1 {
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .services {
+    font-size: small;
+    font-weight: 400;
+  }
+  .our-partners-icon{
+    top: 450px;
+  }
+  /* .img1 {
+    width: 66px;
+    height: 22px;
+    top: 20px;
+    left: 20px;
+  }
+  .img2 {
+    top: 20px;
+    left: 125px;
+    width: 105px;
+    height: 22px;
+  }
+  .img3 {
+    top: 20px;
+    left: 265px;
+    width: 80px;
+    height: 22px;
+  }
+  .img4 {
+    top: 80px;
+    left: 70px;
+    width: 117px;
+    height: 22px;
+  }
+  .img5 {
+    top: 80px;
+    left: 210px;
+    width: 85px;
+    height: 22px;
+  } */
+  .landing-page {
+    height: 100vh;
+  }
+  .header-section {
+    height: 600px;
+  }
+  .what-we-do {
+    top: 570px;
+    height: 950px;
+    width: 100%;
+    position: absolute;
+  }
+  .frame-parent4 {
+    left: 10px;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+  
+  }
+  .subscribe {
+    font-size: larger;
+    position: relative;
+    width: 100%;
+    text-align: center;
+  }
+  .we-provide-the1 {
+    font-size: 19px;
+    left: 10px;
+    width: 80%;
+    font-weight: 500;
+  }
+  .what-we-do-card-parent {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .what-we-do-card {
+    gap: 20px;
+    padding: 20px;
+    height: 200px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+  .what-we-do-parent {
+    display: flex;
+    flex-direction: row;
+
+  }
+  .what-we-do-parent {
+    position: relative;
+    top: 0px;
+    width: 100%;
+  }
+  .digital-marketing-agency {
+    font-size: 15px;
+    width: 100%;
+    font-weight: 500;
+  }
+  .we-help-identify1 {
+    width: 150px;
+    position: relative;
+  }
+  .learn-more-btn1 {
+    width: 120px;
+    height: 41px;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 10px;
+  }
+  .vector-icon4 {
+    width: 13.5px;
+    height: 12px;
+  }
+  .completed-projects-parent {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 10px;
+  }
+  .completed-projects2 {
+    padding: 15px;
+    border: none;
+    gap: 0;
+    justify-content: space-evenly;
+  }
+  .project-plan1 {
+    height: 50px;
+    width: 50px;
+  }
+  .counter-group {
+    width: 80px;
+    height: 45px;
+  }
+  .counter1 {
+    width: 71px;
+    height: 45px;
+  }
+  .div7 {
+    font-weight: 600;
+    font-size: 30px;
+    /* line-height: 40px; */
+  }
+  .div8 {
+    font-weight: 600;
+    font-size: 30px;
+    /* line-height: 40px; */
+  }
+  .wrapper1 {
+    width: 54px;
+    height: 45px;
+  }
+  .frame-parent7 {
+    padding: 15px;
+    border: none;
+    gap: 0;
+  }
+  .our-portfolio {
+    width: 100%;
+    height: 2000px;
+    position: absolute;
+  }
+  .our-portfolio1 {
+    font-size: 24px;
+    left: 10px;
+    position: absolute;
+  }
+  .we-provide-the {
+    font-size: 19px;
+    left: 10px;
+    width: 80%;
+    font-weight: 500;
+  }
+  .screenshots {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    top: 230px;
+    width: 100%;
+  }
+  .screenshot-2022-05-06-at-1035-parent,
+  .screenshot-2022-05-14-at-1115-parent,
+  .screenshot-2022-05-14-at-1117-parent,
+  .screenshot-2022-05-06-at-1033-parent {
+    position: relative;
+    left: 10px;
+    top: 0;
+    gap: 10px;
+  }
+  .screenshot-2022-05-06-at-1035{
+    top: 90px;
+    width:40%;
+    height: 261px;
+    object-fit: contain;
+  }
+  .screenshot-2022-05-06-at-1033{
+    top: 0;
+    width: 100%;
+    height: 261px;
+    object-fit: contain;
+  }
+  .screenshot-2022-05-14-at-1115,
+  .screenshot-2022-05-14-at-1117{
+    top: 0;
+    width: 100%;
+    height: 261px;
+    object-fit: contain;
+  }
+  .digital-marketing-agency {
+    font-size: 20px;
+    width: 100%;
+    font-weight: 500;
+  }
+  .this-is-a {
+    width: 100%;
+    position: relative;
+    font-size: 15.21px;
+  }
+
+  .this-is-a1 {
+    width: 100%;
+    position: relative;
+    font-size: 15.21px;
+  }
+  .this-is-a3{
+    position: relative;
+    font-size: 15.02px;
+    width: 100%;
+  }
+  .testimonial-section {
+    top: 4000px;
+    height: 440px;
+    position: absolute;
+  }
+  .frame-parent3 {
+    top: 30px;
+    left: 10px;
+  }
+  .eparrow-right-bold-parent {
+    display: none;
+  }
+  .subscribe {
+    font-size: 24px;
+    
+  }
+  .design-agency-head {
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+  }
+  .testimonial-section-inner {
+    top: 170px;
+    left: 10px;
+  }
+  .instance-parent {
+    gap: 20px;
+    width: 147%;
+  }
+  .thank-you-for-your-service-i-group {
+    left: 12px;
+    width: 16%;
+    padding: 20px 15px;
+    height: 240px;
+  }
+  .thank-you-for1 {
+    width: 100%;
+  }
+  .emily-stones1 {
+    font-weight: 500;
+  }
+  .subscribe-section {
+    top: 4450px;
+    width: 100%;
+    height: 320px;
+}
+.subscribe-section {
+    position: absolute;
+  }
+  .frame-parent1 {
+    top: 30px;
+    left: 0;
+    width: 100%;
+  }
+  .frame-parent2 {
+    position: relative;
+    width: 100%;
+  }
+  .subscribe-parent {
+    position: relative;
+    padding: 5px;
+    width: 100%;
+  }
+  .subscribe {
+    font-size: 24px;
+  }
+  .subscribe-to-get {
+    width: 100%;
+    font-weight: 500;
+    font-size: 20px;
+  }
+  
+  .please-drop-your {
+    font-weight: 400;
+    text-align: center;
+    position: relative;
+  }
+  .frame-wrapper {
+    width: 90%;
+  }
+  .enter-your-email-adress-parent {
+    width: 100%;
+    justify-content: space-between;
+  }
+  .enter-your-email {
+    width: 60%;
+  }
+  .services {
+    width: 130%;
+  }
+  .header-cta {
+    position: relative;
+    left: 0;
+  }
+  .footer {
+    top: 4800px;
+    width: 100%;
+    position: absolute;
+  }
+  .some-footer-text {
+      font-size: 10px;
+      position: absolute;
+      top: 45px;
+      left: 60px;
+      display: inline-block;
+}
+
+  .footer-inner {
+    top: 120px;
+    left: 110px;
+  }
+  /* .footer-parent {
+    top: 120px;
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 20px;
+    justify-content: space-around;
+    gap: 10px;
+  } */
+  .web-logo-wrapper {
+    width: 100%;
+    font-size: 26px;
+    position: absolute;
+}
+.web-logo {
+  position: relative;
+  align-items: flex-start;
+  text-align: center;
+}
+  .quick-links,
+  .address,
+  .design-agency-head-container,
+  .services-parent {
+    /* top: 0; */
+    width: 40%;
+    left: 0;
+    position: relative;
+    top: 210px;
+  }
+  .services-parent,
+  .design-agency-head-container {
+    gap: 8px;
+    top: 150px;
+    left: 160px;
+    font-size: 16px;
+  }
+  .design-agency-head-container {
+    font-weight: 400;
+    font-size: 16px;
+  }
+  .copyright-design-agency {
+    width: 70%;
+    right: 30px;
+    font-size: 10px;
+    top: 420px;
+    left: 116px;
+  }
+  .subscribe-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+  }
+  .address{
+  top: 280px;
+  } 
+  .header-lady-1-parent
+  {
+    display: none;
+  }
+.subscribe-to-get {
+    position: relative;
+    text-align: center;
+    font-size: 10px;
+}
+.enter-your-email-adress-parent {
+  
+  width: 100%;
+  padding: var(--padding-xl) 16px;
+  justify-content: flex-start;
+  position: relative;
+  text-align: left;
+}
+group-parent{
+     display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 15.31px;
+    width: 209.38px;
+    height: 41px;
+}
+
+
+  @media (min-width: 767px) and (max-width: 1024px) {
+    .landing-page {
+      width: 100%;
+      height: 100vh;
+    }
+  }
+}
